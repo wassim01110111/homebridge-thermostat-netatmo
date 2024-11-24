@@ -1,6 +1,6 @@
 {
-  "name": "homebridge-thermostat-netatmo",
-  "version": "0.0.12",
+  "name": "homebridge-wassim-netatmo",
+  "version": "0.0.01",
   "description": "homebridge plugin for netatmo thermostat",
   "license": "GPL-3.0",
   "keywords": [
@@ -10,10 +10,10 @@
     "node": ">=8",
     "homebridge": ">=0.2.5"
   },
-  "author": "Dan Poltawski",
+  "author": "Wassim",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danpoltawski/homebridge-thermostat-netatmo.git"
+    "url": "git+https://github.com/wassim01110111/homebridge-thermostat-netatmo"
   },
   "dependencies": {
     "request": "^2.88.2",
