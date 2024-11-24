@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/danpoltawski/homebridge-thermostat-netatmo.svg?branch=master)](https://travis-ci.org/danpoltawski/homebridge-thermostat-netatmo)
-
 # homebridge-thermostat-netatmo
 
 An updated fork of the netatmo thermostat plugin for homebridge. Works with the latest API change.
