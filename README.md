@@ -18,9 +18,7 @@ To use this plugin, you need to register an application on the Netatmo developer
     {
         "accessory": "Netatmo Thermostat",
         "name": "Thermostat",
-        "client_id": "<clientid from https://dev.netatmo.com/>",
-        "client_secret": "<secret from https://dev.netatmo.com/>",
-        "username": "",
-        "password": ""
+        "access_token": "<access_token from https://dev.netatmo.com/apps/>",
+        "home_id": "<secret from https://dev.netatmo.com/apidocumentation/energy#homesdata>"
     }
 ],
